@@ -66,6 +66,10 @@ Access it on [http://localhost:3000](http://localhost:3000)
 
 BIO accomplished, funcional twitter button and finally, Link from each repository to the correct github repository: 
 
+![plot](./image/print-project-git.PNG)
+
+
+
 ```js
             <S.WrapperList>
               {githubState.repositories.map((item) => (
@@ -78,6 +82,7 @@ BIO accomplished, funcional twitter button and finally, Link from each repositor
               ))}
             </S.WrapperList>
 ```
+
 
 Thanks very munch [Digital Innovation One](https://web.digitalinnovation.one/) for this great opportunity!
 
