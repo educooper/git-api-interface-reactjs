@@ -24,7 +24,7 @@
 
 ## :dart: About ##
 
-In this project we consumn a public github API to recreate a new interface, creating a frontend application with reusable components, using the best pratics on reactJS technology were, has used props, arrow functions and a little bit more.
+In this project we consume a public github API to recreate a new interface, creating a frontend application with reusable components, using the best practices on reactJS technology were, has used props, arrow functions and a little bit more.
 
 
 ![plot](./image/print-project-git.PNG)
