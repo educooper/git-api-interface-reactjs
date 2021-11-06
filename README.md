@@ -66,9 +66,9 @@ Access it on [http://localhost:3000](http://localhost:3000)
 
 ```
 
-## :coffee: Addicional Features
+## :coffee: Additional Features
 
-BIO accomplished, funcional twitter button and finally, Link from each repository to the correct github repository: 
+BIO accomplished, functional twitter button and finally, Link from each repository to the correct github repository: 
 
 
 ```js
