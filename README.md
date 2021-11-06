@@ -85,6 +85,6 @@ BIO accomplished, funcional twitter button and finally, Link from each repositor
 ```
 
 
-Thanks very munch [Digital Innovation One](https://web.digitalinnovation.one/) for this great opportunity!
+Thanks very munch to the great dev [Matheus benites](https://github.com/benits) and [Digital Innovation One](https://web.digitalinnovation.one/) for this great opportunity!
 
 <a href="#top">Back to the Top</a>
